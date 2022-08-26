@@ -1,6 +1,6 @@
 # House Price Prediction
 
-Predicting house prices can help to determine the selling price of a house of a particular region and it help people ot find the right time to buy a home. Using the exisiting data, a Machine Learning model is developed to predict the price.
+Predicting house prices can help to determine the selling price of a house in a particular region and it helps people to find the right time to buy a home. Using the existing data, a Machine Learning model is developed to predict the price.
 
 <p>
   <img src="https://github.com/codebasics/py/raw/master/DataScience/BangloreHomePrices/BHP_website.PNG" />
